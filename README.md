@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
 ![Profile views](https://gpvc.arturio.dev/sungam3r)
 
 My name is Ivan and I'm a .NET developer.
 
-### Projects I'm working on
+## Projects I'm working on
 
 Most of my free time I'm spending on these projects:
 
@@ -22,7 +22,7 @@ I also have several pet projects:
 | [graphql-sdl-exporter](https://github.com/sungam3r/graphql-sdl-exporter) | [![Nuget](https://img.shields.io/nuget/dt/dotnet-sdlexport)](https://www.nuget.org/packages/dotnet-sdlexport) | .NET Core Global Tool for generating SDL from url or executable file |
 | [graphql-introspection-model](https://github.com/sungam3r/graphql-introspection-model) | [![Nuget](https://img.shields.io/nuget/dt/GraphQL.IntrospectionModel)](https://www.nuget.org/packages/GraphQL.IntrospectionModel) | Types for GraphQL introspection model |
 
-### Some of my GitHub Stats
+## Some of my GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sungam3r)
 
