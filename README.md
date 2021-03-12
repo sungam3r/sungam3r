@@ -24,12 +24,14 @@ I also have several pet projects:
 
 ## Some of my GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sungam3r)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sungam3r&show_icons=true)](https://github.com/sungam3r/github-readme-stats)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sungam3r&amp;layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungam3r)](https://github.com/sungam3r/github-readme-stats)
 
 <!--
 **sungam3r/sungam3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+NOTE: https://github.com/anuraghazra/github-readme-stats
 
 Here are some ideas to get you started:
 
