@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/sungam3r)
 
-My name is Ivan and I'm a .NET developer.
+My name is Ivan and I'm a .NET developer. You may reach me on Telegram - [@sungam3r](https://t.me/sungam3r).
 
 ## Projects I'm working on
 
@@ -27,6 +27,8 @@ I also have several pet projects:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sungam3r&show_icons=true)](https://github.com/sungam3r/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungam3r)](https://github.com/sungam3r/github-readme-stats)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sungam3r" alt="sungam3r" /></a> </p>
 
 <!--
 **sungam3r/sungam3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
