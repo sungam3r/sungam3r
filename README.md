@@ -6,13 +6,14 @@ My name is Ivan and I'm a .NET developer. You may reach me on Telegram - [@sunga
 
 ## Projects I'm working on
 
-Most of my free time I'm spending on these projects:
+Most of my free time I'm spending on these projects as team member/collaborator:
 
 | Project | Nuget | Description |
 |---|--|--|
 | [GraphQL.NET](https://github.com/graphql-dotnet/graphql-dotnet) | [![Nuget](https://img.shields.io/nuget/dt/GraphQL)](https://www.nuget.org/packages/GraphQL) | GraphQL for .NET |
 | [GraphQL Server](https://github.com/graphql-dotnet/server) | [![Nuget](https://img.shields.io/nuget/dt/GraphQL.Server.Core)](https://www.nuget.org/packages/GraphQL.Server.Core) | ASP.NET Core Server + WebSockets Transport |
 | [GraphQL Parser](https://github.com/graphql-dotnet/parser) | [![Nuget](https://img.shields.io/nuget/dt/GraphQL-Parser)](https://www.nuget.org/packages/GraphQL-Parser) | A lexer and parser for GraphQL in .NET |
+| [AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) | > 40 packages | Enterprise HealthChecks for ASP.NET Core Diagnostics Package |
 
 I also have several pet projects:
 
