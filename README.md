@@ -15,6 +15,9 @@ Most of my free time I'm spending on these projects as team member/collaborator:
 | [GraphQL Parser](https://github.com/graphql-dotnet/parser) | [![Nuget](https://img.shields.io/nuget/dt/GraphQL-Parser)](https://www.nuget.org/packages/GraphQL-Parser) | A lexer and parser for GraphQL in .NET |
 | [ PublicApiGenerator](https://github.com/PublicApiGenerator/PublicApiGenerator) | [![Nuget](https://img.shields.io/nuget/dt/PublicApiGenerator)](https://www.nuget.org/packages/PublicApiGenerator) | Project to generate a public API of an assembly or type |
 | [AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) | > 40 packages | Enterprise HealthChecks for ASP.NET Core Diagnostics Package |
+| [Destructurama.ByIgnoring](https://github.com/destructurama/by-ignoring) | [![Nuget](https://img.shields.io/nuget/dt/Destructurama.ByIgnoring)](https://www.nuget.org/packages/Destructurama.ByIgnoring) | Specify how complex types are logged to Serilog by excluding individual properties. |
+| [Destructurama.JsonNet](https://github.com/destructurama/json-net) | [![Nuget](https://img.shields.io/nuget/dt/Destructurama.JsonNet)](https://www.nuget.org/packages/Destructurama.JsonNet) | Adds support for logging JSON.NET dynamic types as structured data with Serilog |
+| [Destructurama.Attributed](https://github.com/destructurama/attributed) | [![Nuget](https://img.shields.io/nuget/dt/Destructurama.Attributed)](https://www.nuget.org/packages/Destructurama.Attributed) | Use attributes to control how complex types are logged to Serilog. |
 
 I also have several pet projects:
 
