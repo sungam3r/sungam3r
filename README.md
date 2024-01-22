@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Profile views](https://gpvc.arturio.dev/sungam3r)
-
 My name is Ivan and I'm a .NET developer. You may reach me on Telegram - [@sungam3r](https://t.me/sungam3r).
 
 ## Projects I'm working on
